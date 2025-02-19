@@ -1,0 +1,155 @@
+Lista de Acrônimos de Cibersegurança - Security+
+
+Esta lista apresenta acrônimos comuns utilizados na certificação Security+ e em normas brasileiras de cibersegurança.
+
+A
+
+AAA - Autenticação, Autorização e Auditoria (Authentication, Authorization, and Accounting)
+
+ACL - Lista de Controle de Acesso (Access Control List)
+
+AES - Padrão de Criptografia Avançado (Advanced Encryption Standard)
+
+APT - Ameaça Persistente Avançada (Advanced Persistent Threat)
+
+ARP - Protocolo de Resolução de Endereço (Address Resolution Protocol)
+
+ASLR - Randomização do Layout do Espaço de Endereço (Address Space Layout Randomization)
+
+B
+
+BCP - Plano de Continuidade de Negócios (Business Continuity Plan)
+
+BIOS - Sistema Básico de Entrada e Saída (Basic Input/Output System)
+
+BYOD - Traga Seu Próprio Dispositivo (Bring Your Own Device)
+
+C
+
+CAC - Cartão de Acesso Comum (Common Access Card)
+
+CCTV - Circuito Fechado de TV (Closed-Circuit Television)
+
+CIFS - Sistema Comum de Arquivos da Internet (Common Internet File System)
+
+CIRT - Equipe de Resposta a Incidentes de Computação (Computer Incident Response Team)
+
+CMS - Sistema de Gerenciamento de Conteúdo (Content Management System)
+
+COOP - Continuidade das Operações (Continuity of Operations Plan)
+
+CRL - Lista de Revogação de Certificados (Certificate Revocation List)
+
+D
+
+DAC - Controle de Acesso Discricionário (Discretionary Access Control)
+
+DDoS - Ataque Distribuído de Negação de Serviço (Distributed Denial of Service)
+
+DEP - Prevenção de Execução de Dados (Data Execution Prevention)
+
+DMZ - Zona Desmilitarizada (Demilitarized Zone)
+
+DNSSEC - Extensões de Segurança para DNS (Domain Name System Security Extensions)
+
+E
+
+EAP - Protocolo de Autenticação Extensível (Extensible Authentication Protocol)
+
+ECC - Criptografia de Curva Elíptica (Elliptic Curve Cryptography)
+
+EMI - Interferência Eletromagnética (Electromagnetic Interference)
+
+ERP - Planejamento de Recursos Empresariais (Enterprise Resource Planning)
+
+F
+
+FDE - Criptografia de Disco Inteiro (Full Disk Encryption)
+
+FTP - Protocolo de Transferência de Arquivos (File Transfer Protocol)
+
+FW - Firewall
+
+G
+
+GPO - Objeto de Política de Grupo (Group Policy Object)
+
+GPU - Unidade de Processamento Gráfico (Graphics Processing Unit)
+
+GUI - Interface Gráfica do Usuário (Graphical User Interface)
+
+H
+
+HIDS - Sistema de Detecção de Intrusão em Host (Host-based Intrusion Detection System)
+
+HSM - Módulo de Segurança de Hardware (Hardware Security Module)
+
+I
+
+IAM - Gerenciamento de Identidade e Acesso (Identity and Access Management)
+
+IDS - Sistema de Detecção de Intrusão (Intrusion Detection System)
+
+IPSec - Segurança de Protocolo da Internet (Internet Protocol Security)
+
+L
+
+LDAP - Protocolo Leve de Acesso a Diretórios (Lightweight Directory Access Protocol)
+
+LUN - Número de Unidade Lógica (Logical Unit Number)
+
+M
+
+MAC - Controle de Acesso Obrigatório (Mandatory Access Control)
+
+MD5 - Algoritmo de Hash MD5 (Message Digest 5)
+
+MFA - Autenticação Multifator (Multi-Factor Authentication)
+
+N
+
+NAC - Controle de Acesso à Rede (Network Access Control)
+
+NAS - Armazenamento Conectado à Rede (Network Attached Storage)
+
+NIDS - Sistema de Detecção de Intrusão em Rede (Network-based Intrusion Detection System)
+
+NIST - Instituto Nacional de Padrões e Tecnologia (National Institute of Standards and Technology)
+
+P
+
+PaaS - Plataforma como Serviço (Platform as a Service)
+
+PBKDF2 - Função Derivadora de Chave Baseada em Senha 2 (Password-Based Key Derivation Function 2)
+
+PCI DSS - Padrão de Segurança de Dados para Indústria de Cartões de Pagamento (Payment Card Industry Data Security Standard)
+
+PKI - Infraestrutura de Chave Pública (Public Key Infrastructure)
+
+R
+
+RBAC - Controle de Acesso Baseado em Função (Role-Based Access Control)
+
+RDP - Protocolo de Desktop Remoto (Remote Desktop Protocol)
+
+RFID - Identificação por Radiofrequência (Radio Frequency Identification)
+
+S
+
+SaaS - Software como Serviço (Software as a Service)
+
+SHA - Algoritmo de Hash Seguro (Secure Hash Algorithm)
+
+SIEM - Gerenciamento de Informação e Eventos de Segurança (Security Information and Event Management)
+
+SSL - Camada de Sockets Segura (Secure Sockets Layer)
+
+T
+
+TACACS+ - Serviço de Controle de Acesso Centralizado (Terminal Access Controller Access-Control System Plus)
+
+TLS - Segurança da Camada de Transporte (Transport Layer Security)
+
+TPM - Módulo de Plataforma Confiável (Trusted Platform Module)
+
+TTP - Táticas, Técnicas e Procedimentos (Tactics, Techniques, and Procedures)
